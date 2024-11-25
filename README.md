@@ -14,9 +14,6 @@ npx webpack
 /* install packages */  
 npm install -D  
 
-/* to test */  
-npm run test  
-
 /* to start dev server */  
 npm run start  
 
